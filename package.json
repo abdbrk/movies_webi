@@ -16,19 +16,5 @@
 	},
 	"devDependencies": {
 		"nodemon": "^3.1.7"
-	},
-	"nodemonConfig": {
-		"verbose": true,
-		"watch": [
-			"index.js"
-		],
-		"ext": "ts",
-		"ignore": [
-			"*.json"
-		],
-		"delay": "3000",
-		"execMap": {
-			"ts": "ts-node"
-		}
 	}
 }
