@@ -7,6 +7,10 @@ import fs from 'node:fs';
 import { nextTick } from 'node:process';
 
 import moviesRouter from './routes/moviesRouter.js';
+import listsRouter from './routes/listsRouter.js';
+
+
+const port = 3001;
 
 const app = express();
 
@@ -24,6 +28,8 @@ app.use((req, res, next) => {
 });
 
 app.use('/movies', moviesRouter);
+
+app.use('/lists', listsRouter)
 
 app.get('/', (request, response) => {
 	response.status(200).json({ message: 'Vous nous avez contacté :)' });
@@ -78,6 +84,6 @@ app.use((req, res) => {
 	res.status(404).json({ error: true, message: 404 });
 });
 
-app.listen(3000, () => {
-	console.log('server running : port 3000');
+app.listen(port, () => {
+	console.log(`server running : ${port}`);
 });

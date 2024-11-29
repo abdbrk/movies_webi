@@ -1,1 +1,242 @@
-[{"title":"Inception","release_year":2010,"genre":["Science Fiction","Thriller"],"director":"Christopher Nolan","cast":["Leonardo DiCaprio","Joseph Gordon-Levitt","Elliot Page"],"duration":148,"rating":8.8,"id":1},{"title":"The Shawshank Redemption","release_year":1994,"genre":["Drama"],"director":"Frank Darabont","cast":["Tim Robbins","Morgan Freeman","Bob Gunton"],"duration":142,"rating":9.3,"id":2},{"title":"Pulp Fiction","release_year":1994,"genre":["Crime","Drama"],"director":"Quentin Tarantino","cast":["John Travolta","Uma Thurman","Samuel L. Jackson"],"duration":154,"rating":8.9,"id":3},{"title":"The Dark Knight","release_year":2008,"genre":["Action","Crime","Drama"],"director":"Christopher Nolan","cast":["Christian Bale","Heath Ledger","Aaron Eckhart"],"duration":152,"rating":9,"id":4},{"title":"Forrest Gump","release_year":1994,"genre":["Drama","Romance"],"director":"Robert Zemeckis","cast":["Tom Hanks","Robin Wright","Gary Sinise"],"duration":142,"rating":8.8,"id":5},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":6},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":7},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":8},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":9},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":10},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":11},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":12},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":13},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":14},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":15},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":16},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":17},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":18},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":19},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":20},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":21},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":22},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":23},{"title":"Terminator","release_year":1980,"genre":["Science Fiction","Thriller"],"director":"XX","cast":["XXX"],"duration":148,"rating":8.8,"id":24}]
+[
+  {
+    "title": "Inception",
+    "release_year": 2010,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "Christopher Nolan",
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 1
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "release_year": 1994,
+    "genre": ["Drama"],
+    "director": "Frank Darabont",
+    "cast": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+    "duration": 142,
+    "rating": 9.3,
+    "id": 2
+  },
+  {
+    "title": "Pulp Fiction",
+    "release_year": 1994,
+    "genre": ["Crime", "Drama"],
+    "director": "Quentin Tarantino",
+    "cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+    "duration": 154,
+    "rating": 8.9,
+    "id": 3
+  },
+  {
+    "title": "The Dark Knight",
+    "release_year": 2008,
+    "genre": ["Action", "Crime", "Drama"],
+    "director": "Christopher Nolan",
+    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "duration": 152,
+    "rating": 9,
+    "id": 4
+  },
+  {
+    "title": "Forrest Gump",
+    "release_year": 1994,
+    "genre": ["Drama", "Romance"],
+    "director": "Robert Zemeckis",
+    "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+    "duration": 142,
+    "rating": 8.8,
+    "id": 5
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 6
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 7
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 8
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 9
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 10
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 11
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 12
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 13
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 14
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 15
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 16
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 17
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 18
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 19
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 20
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 21
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 22
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 23
+  },
+  {
+    "title": "Terminator",
+    "release_year": 1980,
+    "genre": ["Science Fiction", "Thriller"],
+    "director": "XX",
+    "cast": ["XXX"],
+    "duration": 148,
+    "rating": 8.8,
+    "id": 24
+  }
+]

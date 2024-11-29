@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "A voir avec les enfants",
+    "idOwner": "2",
+    "idMovies": [218, 219, 220]
+  },
+  {
+    "id": 2,
+    "title": "A voir avec les amis",
+    "idOwner": "2",
+    "idMovies": [221, 222, 223]
+  },
+  {
+    "id": 3,
+    "title": "Mes plaisirs coupables",
+    "idOwner": "3",
+    "idMovies": [224, 225, 226]
+  },
+  { "id": 4, "title": "Il était une fois", "idOwner": 4, "idMovies": [] }
+]
